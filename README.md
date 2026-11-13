@@ -115,4 +115,4 @@ sha256sum /tmp/tcc_A2 /tmp/tcc_B2
 ---
 
 > "The moral is obvious. You can't trust code that you did not totally create yourself. (Especially code from companies that employ people like me.) No amount of source-level verification can protect you from using untrusted code."  
-> — Ken Thompson, *Reflections on Trusting Trust* (1984)
+ — Ken Thompson, *Reflections on Trusting Trust* (1984)
